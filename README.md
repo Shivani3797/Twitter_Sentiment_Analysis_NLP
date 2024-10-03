@@ -22,7 +22,7 @@ This project focuses on performing sentiment analysis on Twitter data using vari
 ## Features 🔍
 
 - **Data Cleaning**: Comprehensive text preprocessing to enhance data quality.
-- **Multiple Algorithms**: Implemented Logistic Regression, Multinomial Naive Bayes, and SVM classifiers for sentiment prediction.
+- **Multiple Algorithms**: Implemented Logistic Regression and  Multinomial Naive Bayes for sentiment prediction.
 - **Performance Evaluation**: Analyzed model performance using accuracy, precision, recall, and F1-score metrics.
 
 ## Technologies Used 💻
@@ -74,7 +74,7 @@ Compare Performance: Assessing the strengths and weaknesses of each algorithm he
 
 Robust Analysis: Different models may capture different aspects of the data, leading to a more comprehensive understanding of sentiment.
 
-Diverse Strategies: Leveraging varied algorithms can improve overall accuracy and generalization to unseen data.
+Diverse Strategies: Leveraging varied algorithms can improve accuracy and generalization of unseen data.
 
 ### 6.Future Improvements 🌱
 Explore advanced NLP techniques such as word embeddings (e.g., Word2Vec, GloVe).
@@ -83,4 +83,4 @@ Enhance preprocessing steps by considering emojis and slang commonly used on Twi
 
 ### 7.Acknowledgments 🙏
 Thanks to the creators of the Sentiment140 dataset.
-Inspiration from geeks for geeks sentimental analysis youtube video and python for programers by Dietel book.
+Inspiration from geeks for geeks sentimental analysis youtube video and python for programers book by Dietel.

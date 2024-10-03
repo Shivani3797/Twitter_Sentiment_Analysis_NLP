@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis 🌟
 
-![Twitter Sentiment Analysis](https://files.oaiusercontent.com/file-tDpKPjgyhklT2ZDo0z4eWorN?se=2024-10-02T10%3A33%3A06Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D18d05b5e-b7cb-4fa5-9d8c-00063aaeb77a.webp&sig=SZQysFDLVIDi172GnyvkoHEX719X82lI4A9dfiys89s%3D) 
+![Twitter Sentiment Analysis](C:\Users\ADMIN\Desktop\Linkedin\Twitter-sentiment-analysis.jpeg)
 
 ## Project Overview 🚀
 

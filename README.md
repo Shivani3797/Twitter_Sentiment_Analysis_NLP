@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis 🌟
 
-![Twitter Sentiment Analysis](C:\Users\ADMIN\Desktop\Linkedin\Twitter-sentiment-analysis.jpeg)
+![Twitter-sentiment-analysis](https://github.com/user-attachments/assets/5d7181e8-2e8e-4289-ad36-5a6b6e27d233)
 
 ## Project Overview 🚀
 
